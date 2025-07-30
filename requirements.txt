@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+fpdf
+mysql-connector-python
+bcrypt
+xlsxwriter
